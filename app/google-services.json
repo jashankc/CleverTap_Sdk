@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "823491839915",
+    "firebase_url": "https://cssupportapp-3a42c.firebaseio.com",
+    "project_id": "cssupportapp-3a42c",
+    "storage_bucket": "cssupportapp-3a42c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823491839915:android:7004dc00ab41cdb8af74ee",
+        "android_client_info": {
+          "package_name": "com.example.clevertapsdk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823491839915-7eabp2jft15r392jsg5387rsnhsaeogj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxx6xk0w4myDU9I4IVGCOXwBxu6dQOLJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823491839915-7eabp2jft15r392jsg5387rsnhsaeogj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
